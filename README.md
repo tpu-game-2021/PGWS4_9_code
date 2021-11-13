@@ -7,10 +7,10 @@
 ![結果画像2](result2.png)
 
 ## 自分なりにかっこいいシーン
-![結果画像](result.png)
+![result](https://user-images.githubusercontent.com/55951546/141614272-8559897b-f36d-48e3-a9fa-dc14633c0b73.png)
 
 # 自分なりに変更した点
--
+-背景を水辺にしてスクリプトでsphereを水のように透明にしてふちを少し光らせた。
 -
 -
 
