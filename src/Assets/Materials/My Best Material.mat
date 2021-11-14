@@ -7,8 +7,8 @@ Material:
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
-  m_Name: 2_3 Bump Material
-  m_Shader: {fileID: 4800000, guid: 5232f0bfbe1f3074990a3a79f46f1360, type: 3}
+  m_Name: My Best Material
+  m_Shader: {fileID: 4800000, guid: 2ec5a3145b7fe89459752ba888b7bc25, type: 3}
   m_ShaderKeywords: 
   m_LightmapFlags: 4
   m_EnableInstancingVariants: 0
@@ -23,15 +23,14 @@ Material:
         m_Texture: {fileID: 2800000, guid: 75854c6a6d1247c44ae385b17bd53b5e, type: 3}
         m_Scale: {x: 1, y: 1}
         m_Offset: {x: 0, y: 0}
-    - _Cube:
-        m_Texture: {fileID: 0}
-        m_Scale: {x: 1, y: 1}
-        m_Offset: {x: 0, y: 0}
     - _MainTex:
         m_Texture: {fileID: 2800000, guid: e0345cc577daae741a600cc2f3288a6a, type: 3}
         m_Scale: {x: 1, y: 1}
         m_Offset: {x: 0, y: 0}
     m_Ints: []
-    m_Floats: []
-    m_Colors: []
+    m_Floats:
+    - _RimPower: 1
+    m_Colors:
+    - _Color: {r: 0, g: 0, b: 0, a: 1}
+    - _RimColor: {r: 1, g: 0, b: 0, a: 1}
   m_BuildTextureStacks: []
